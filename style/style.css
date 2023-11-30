@@ -1,0 +1,30 @@
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+  
+h1 {
+    text-align: center;
+}
+  
+#friendInput {
+    padding: 8px;
+    margin: 10px;
+}
+  
+button {
+    padding: 8px 16px;
+    margin: 10px;
+}
+  
+#friendList {
+    margin: 10px;
+}
+  
